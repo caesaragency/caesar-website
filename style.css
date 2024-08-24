@@ -3,7 +3,7 @@
 }
 .page-body{
     margin: 0;
-    background-color: #1E1E1E;
+    background-color: #131313;
 }
 .container{
     max-width: 1170px;
@@ -20,7 +20,7 @@ margin: auto;
 }
 .header-list{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly ;
     list-style: none;
     padding-left: 0;
     margin-bottom: 0;
