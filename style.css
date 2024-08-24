@@ -37,7 +37,7 @@ margin: auto;
     font-family: "Lato", sans-serif;
     text-decoration: none;
     color: #ffdf80;
-    font-size: 20px;
+    font-size: 15px;
 }
 .subtitle{
     color: #A5A5A5;
@@ -46,17 +46,17 @@ margin: auto;
     margin-top: 30px;
 }
 .main-img{
-
+    width: 550px;
+    height: 450px;
 }
 .subtitle{
-    font-size: 20px;
+    font-size: 15px;
 margin: 0;    
 }
 
 .main-img-conteiner{
-    margin-left: 45px;
-    margin-bottom: 20px;
-    width: 600px;
-    height: 500px;
+    margin-left: 40px;
+    width: 550px;
+    height: 460px;
     float: right;
 }
